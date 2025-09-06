@@ -1,0 +1,36 @@
+/* Navegación */
+.navbar {
+  margin-bottom: 20px;
+}
+
+/* Panel */
+.panel-container {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+/* Contenido */
+.content {
+  padding: 20px;
+}
+
+/* Tablas */
+.table {
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.table th {
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+.table td {
+  vertical-align: middle;
+}
+
+/* Botones */
+.btn {
+  border-radius: 8px;
+}
